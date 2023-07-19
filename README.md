@@ -1,1 +1,28 @@
 # Happy.Birdhay.A5
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Content </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Criminal.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <section class="VideoBackground">
+        <video autoplay loop muted src="yt1s.com - Ծնունդդ շնորհավոր երգեր  Արմեն Ղազարյան_v720P.mp4"></video>
+      </section>
+    <div id="container">
+        <h1></h1>
+           <center></center>
+        </h1>
+        <div class="snow"></div>
+    </div>
+    
+    
+
+    <script src="index.js"></script>
+</body>
+</html>
